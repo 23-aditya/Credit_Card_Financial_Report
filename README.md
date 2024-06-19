@@ -1,4 +1,4 @@
-How to navigate through the project:
+#How to navigate through the project:
 
 The 2 .csv files named "customer" and "credit_card" contain the raw data used for the project.
 
